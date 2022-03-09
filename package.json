@@ -1,0 +1,18 @@
+{
+  "name": "learning_one",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Ömer Can Hocaoğlu, <omercanhocaoglu@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "is-number": "^7.0.0",
+    "node-fetch": "^3.2.1",
+    "slugify": "^1.6.5"
+  },
+  "description": ""
+}
